@@ -7,7 +7,7 @@ export default function Hero() {
       {/* 3D Cover */}
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/LU2mWMPbF3Qi1Qxh/scene.splinecode"
+          scene="https://prod.spline.design/VyGeZv58yuk8j7Yy/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
@@ -20,7 +20,7 @@ export default function Hero() {
         <div className="ml-auto max-w-xl text-right text-white">
           <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-xs font-medium backdrop-blur">
             <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-400" />
-            AI Receptionist • Workflow Automation
+            Interactive • Futuristic • Minimal
           </span>
           <h1 className="mt-4 text-4xl font-semibold leading-tight sm:text-5xl md:text-6xl">
             Automate every conversation with an AI Receptionist powered by n8n
